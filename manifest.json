@@ -12,7 +12,7 @@
     "content_scripts": [
       {
         "matches": ["*://elearning.fh-ooe.at/course/*"],
-        "js": ["unfuck.js"]
+        "js": ["scripts/unfuck.js"]
       }
     ]
   }
