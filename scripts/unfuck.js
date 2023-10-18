@@ -5,6 +5,7 @@ var activityItems = document.getElementsByClassName('activity-item');
 for(var i = 0; i < activityItems.length; i++){
     activityItems[i].style.paddingTop = '8px';
     activityItems[i].style.paddingBottom = '8px';
+    activityItems[i].style.border = '0px';
 }
 
 //make activityiconcontainers smaller to reduce overall height of individual objects
