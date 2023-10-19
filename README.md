@@ -8,3 +8,13 @@ Please note that this version only works for Mozilla Firefox.
 - Download the `UnfckMoodle-Firefox.zip` archive and extract the file.
 - Open the previously extracted file with Mozilla Firefox.
 - When prompted whether to add the new extension, click `Add`. 
+
+## Before/After Comparison
+
+### Before
+
+![](./img/before.png)
+
+### After
+
+![](./img/after.png)
