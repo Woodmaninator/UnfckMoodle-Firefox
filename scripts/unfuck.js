@@ -1,6 +1,6 @@
 console.log('Extension applied on this page');
 
-//reduce padding of activity-items
+//reduce padding of activity-items and remove the silly border
 var activityItems = document.getElementsByClassName('activity-item');
 for(var i = 0; i < activityItems.length; i++){
     activityItems[i].style.paddingTop = '8px';
